@@ -41,8 +41,8 @@ The dataset contains:
 ## 📈 Key Insights
 - Top-selling category: **Salad**
 - Highest sales month: **October**
-- Most preferred payment method: **Not Defined**
-- Key revenue-driving location: **Not Defined**
+- Most preferred payment method: **Cash**
+- Key revenue-driving location: **In-store**
 
 ---
 
@@ -55,7 +55,3 @@ The dataset contains:
    - Product Category
    - Location
 5. Check **Pivot_Table** sheet for detailed analysis.
-
----
-
-## 📂 File Structure
