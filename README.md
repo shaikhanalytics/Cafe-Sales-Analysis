@@ -1,4 +1,4 @@
-# Cafe Sales Analytics Dashboard
+# Cafe Sales Analysis Dashboard
 
 ## 📌 Overview
 This project is an **interactive Excel dashboard** built for analyzing **cafe sales data** based on **Ferns & Petals** sample dataset.  
